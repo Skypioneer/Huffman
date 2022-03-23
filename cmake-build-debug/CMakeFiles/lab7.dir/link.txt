@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/lab7.dir/lab7.cpp.o CMakeFiles/lab7.dir/HuffmanTree.cpp.o  -o lab7 

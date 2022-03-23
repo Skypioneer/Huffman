@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/lab7/BST.h
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/lab7/HuffmanTree.cpp
+HuffmanTree.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/lab7/HuffmanTree.h
+
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/lab7/HuffmanTree.h
+iostream
+-
+string
+-
+queue
+-
+fstream
+-
+bitset
+-
+BST.h
+/Users/skypioneer/OneDrive - Seattle University/CSFC/2020 Autumn Quarter/Data Structures/Assginments/lab7/BST.h
+
